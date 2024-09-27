@@ -1,4 +1,4 @@
-int addnm(int a, int b) {
+int addnum(int a, int b) {
   int sum = 0;
 
   for (; a<=b; a++) {
